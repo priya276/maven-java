@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
 public class HelloTest {
 
     @Test
-    public void testSayHello() {
+     void testSayHello() {
         OutputStream os = new ByteArrayOutputStream();
         PrintStream stream = new PrintStream(os, true);
 
