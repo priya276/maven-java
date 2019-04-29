@@ -20,5 +20,3 @@ then
 else
    echo "Hosting failed"
 fi
-
-
