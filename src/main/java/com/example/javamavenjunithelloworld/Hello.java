@@ -1,6 +1,6 @@
 package com.example.javamavenjunithelloworld;
 
-import java.io.PrintStream;
+ java.io.PrintStream;
 
 /**
  * Simple class that says "Hello!".
