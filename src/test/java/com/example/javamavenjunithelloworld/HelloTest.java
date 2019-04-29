@@ -1,4 +1,4 @@
-hhhhhhhh com.example.javamavenjunithelloworld;
+package com.example.javamavenjunithelloworld;
 
 import org.junit.Test;
 
